@@ -2,3 +2,5 @@ virtual/
 *.pyc
 .idea/
 .env
+categories.json
+confusables.json
