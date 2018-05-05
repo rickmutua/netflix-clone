@@ -4,3 +4,4 @@ virtual/
 .env
 categories.json
 confusables.json
+.DS_Store

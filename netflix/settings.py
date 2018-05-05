@@ -84,8 +84,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netflix',
-        'USER': 'erick',
-        'PASSWORD':'qwerty12345',
+        'USER': ,
+        'PASSWORD': ,
     }
 }
 
